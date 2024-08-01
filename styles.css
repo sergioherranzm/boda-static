@@ -24,6 +24,16 @@ body {
   letter-spacing: 0.01em;
 }
 
+#jjoo {
+  height: 100px;
+  background-color: rgba(255, 255, 255, 0);
+}
+
+#confetti {
+  width: 100vw;
+  background-color: rgba(255, 255, 255, 0);
+}
+
 section {
   width: 100vw;
   height: 100vh;
@@ -132,7 +142,7 @@ section a:hover {
 section footer {
   /*justify-self: end;*/
   position: relative;
-  top: 65%;
+  top: 58%;
 }
 
 @keyframes pulse {

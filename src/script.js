@@ -3,7 +3,7 @@ const audioMusic = new Audio(audioURL.toString());
 
 audioMusic.autoplay = true;
 
-audioMusic.volume = 0.5;
+audioMusic.volume = 1;
 audioMusic.loop = true;
 
 window.onload = () => {
