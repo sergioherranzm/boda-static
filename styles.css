@@ -27,11 +27,15 @@ body {
 #jjoo {
   height: 100px;
   background-color: rgba(255, 255, 255, 0);
+  position: absolute;
+  top: 35%;
 }
 
 #confetti {
   width: 100vw;
   background-color: rgba(255, 255, 255, 0);
+  position: absolute;
+  top: 320%;
 }
 
 section {

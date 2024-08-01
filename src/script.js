@@ -1,4 +1,4 @@
-let audioURL = new URL('../assets/sounds/background.mp3', import.meta.url);
+let audioURL = new URL('../assets/sounds/backgroundMusic.mp3', import.meta.url);
 const audioMusic = new Audio(audioURL.toString());
 
 audioMusic.autoplay = true;
